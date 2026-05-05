@@ -20,5 +20,5 @@ npm run build
 This project is configured for a GitHub Pages project site at:
 
 ```txt
-https://PVSarathKrishnan.github.io/portfolio/
+https://PVSarathKrishnan.github.io/Portfolio/
 ```
